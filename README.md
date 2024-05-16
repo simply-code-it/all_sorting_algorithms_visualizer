@@ -2,7 +2,7 @@
 
 This project provide visualization of all the sorting algorithms, (i.e. how sorting algorithms sort the array).
 
-# Deployed Link:
+# Deployed Link: https://all-sorting-algorithms-visualizer.vercel.app/
 
 Currently, visualization is available for five algorithms 
 
