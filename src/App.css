@@ -1,0 +1,105 @@
+/* *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+#mainContainer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  min-width: 100%;
+  min-height: 100%;
+  background-color: teal;
+}
+
+ 
+.array-container {
+  display: flex;
+  justify-content: center;
+  min-height: 600px;
+  max-height: 70%;
+}
+
+.array-bar {
+  width: 20px;
+  margin: 0 1px;
+  background-color: #6a1b9a;
+}
+
+.buttons {
+  margin-top: 2rem;
+  min-height: 30%;
+}
+
+button {
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  margin: 0 0.5rem;
+  cursor: pointer;
+} */
+
+
+/* .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 0px;
+  padding:10px;
+  gap: 20px;
+  min-width: 100%;
+  min-height: 100%;
+  background-color: teal;
+} */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#mainContainer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  min-width: 100%;
+  min-height: 100%;
+  background-color: teal;
+  padding:20px;
+}
+
+
+.array-container {
+  display: flex;
+  justify-content: center;
+  min-height: 600px;
+  max-width: 100%;
+  max-height: 70%;
+}
+
+.array-bar {
+  width: 20px;
+  margin: 0 1px;
+  background-color: #6a1b9a;
+}
+
+.buttons {
+  margin-top: 2rem;
+  min-height: 30%;
+}
+
+button {
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  margin: 0 0.5rem;
+  cursor: pointer;
+  background-color: gold;
+  border: 0px;
+  border-radius: 10px;
+}
